@@ -3,7 +3,7 @@ An Arduino project that reads temperature data from an analog sensor and provide
 
 Live Hardware Simulation
 You can view and interact with the live hardware circuit simulation directly inside your web browser:
-![Open in Wokwi](https://img.shields.io/badge/Wokwi-Open_Simulation-blue?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V29rd2k8L3RpdGxlPjxwYXRoIGQ9Ik0xMiAyTDQgNnYxMmw4IDQgOC00VjZ6bTAgMi44M2w0LjY0IDIuMzJMMTIgOS40NyA3LjM2IDcuIMF6TTggMTUuNTRWOS43NWw0IDJ2NS44em04IDBsLTQgMnYtNS44bDQgLTJ6IiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==)
+https://wokwi.com/projects/480146076737747969
 ---
 Project Objective
 This project acts as a safety tracking setup designed to:
